@@ -155,7 +155,7 @@ PRs and issues welcome. If you find a bug, please include:
 ## Author
 
 **Alpay Ibrahimli**  
-[github.com/debianmaster17](https://github.com/debianmaster17)
+[github.com/r00tkin](https://github.com/r00tkin)
 
 ---
 
